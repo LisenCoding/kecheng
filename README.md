@@ -23,6 +23,14 @@
 >
 > 数据库：MySQL
 
+## 功能概览
+>课程管理系统包括学生、教师、管理员三个模块
+>
+>:star:学生功能：主要包括选课、查看已选课程列表、成绩查看、课表查询、个人信息管理等
+>
+>:star:教师功能：主要包括授课查询、课表查询、成绩录入等
+>
+>:star:管理员功能：系管理、专业管理、班级管理、教师管理、学生管理、课程管理、选课管理等
 ## 实现页面截图 
 ![1login](https://github.com/user-attachments/assets/b2236f46-db42-45f0-bfda-dc65dd24ea6e)
 ![2选修课程](https://github.com/user-attachments/assets/f091da81-7b33-44e7-904b-2f9e3a25fbba)
